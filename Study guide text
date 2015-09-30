@@ -169,6 +169,7 @@ CHAPTER 6: DEADLOCK
 (Q)No preemption
 
 (Q)Hold and wait
+
 (Q)Circular wait
 
 (Q)Know the difference between deadlock prevention & deadlock avoidance, and be able to discuss each in terms of effectiveness, cost (execution time, burden placed on programmers, etc.). Study Table 6.1 on page 266.
